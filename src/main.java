@@ -10,7 +10,7 @@ public class main {
         santiago.mostrarMensajeSantiago();
         test3 nikoll = new test3();
         nikoll.mensajeNikoll();
-    }
 
+    }
     
 }
