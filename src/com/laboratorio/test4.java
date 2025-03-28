@@ -1,3 +1,4 @@
+package com.laboratorio;
 public class test4 {
     public void mensajeToro(){
         System.out.println("------------------------------");
