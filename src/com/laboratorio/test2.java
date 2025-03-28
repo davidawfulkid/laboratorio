@@ -1,3 +1,4 @@
+package com.laboratorio;
 public class test2 {
     public void mostrarMensajeSantiago(){
         System.out.println("--------------------");
