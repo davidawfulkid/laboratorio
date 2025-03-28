@@ -10,7 +10,10 @@ public class main {
         santiago.mostrarMensajeSantiago();
         
         test3 nikoll = new test3();
-        nikoll.mensajeNikoll();        
+        nikoll.mensajeNikoll();
+        
+        test4 toro = new test4();
+        toro.mostrarMensaje();
     }
 }
         
