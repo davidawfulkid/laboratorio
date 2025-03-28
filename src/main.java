@@ -4,8 +4,5 @@ public class main {
 
         test2 santiago = new test2();
         santiago.mostrarMensajeSantiago();
-
-        test3 nikoll = new test3();
-        nikoll.mensajeNikoll();
     }
 }
